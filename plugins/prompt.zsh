@@ -71,7 +71,7 @@ PROMPT_MODE=1
 
 
 
-PROMPT="%B%F{31}%~%f%b %B%F{green}→%f%b  " # single quotes to prevent immediate execution
+PROMPT="%B%F{31}%(5~|%-1~/…/%3~|%4~)%f%b %B%F{green}→%f%b  " # single quotes to prevent immediate execution
 RPROMPT='' # set asynchronously and dynamically
 
 

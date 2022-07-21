@@ -31,6 +31,5 @@ bindkey '^[[5~' beginning-of-buffer-or-history
 bindkey '^[[6~' end-of-buffer-or-history
 bindkey '^[[H' beginning-of-line          
 bindkey '^[[e' end-of-line               
-bindkey '^[[Z' undo                   
-
+bindkey '^[[Z' undo
 
